@@ -1,0 +1,20 @@
+{
+    "name": "AquaWarInSpace",
+    "dependencies": {
+        "device": "*",
+        "animation": "*",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.0.5",
+        "spritelives": "github:felixtsu/pxt-spritelife#v0.1.0",
+        "cubicbird-helper-blocks": "github:felixtsu/cubicbird-helper-blocks#v0.2.1"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
